@@ -16,3 +16,14 @@ On PyGame
 
 ![bll](demos/.img/3.png)
 ---
+
+**pip install pygame**
+# Run/Запуск
+**Windows**
+```bash
+python curs.py
+```
+**Linux**
+```bash
+python3 curs.py
+```
