@@ -17,8 +17,13 @@ On PyGame
 ![bll](demos/.img/3.png)
 ---
 
-**pip install pygame**
 # Run/Запуск
+```bash
+git clone https://github.com/vncased/demos.git
+```
+```bash
+pip install pygame
+```
 **Windows**
 ```bash
 python curs.py
