@@ -1,5 +1,5 @@
 # demos
 ---
 
-!(demos/.img/1.png)[parallel]
+![parallel](demos/.img/1.png)
 ---
