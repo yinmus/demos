@@ -22,6 +22,9 @@ On PyGame
 git clone https://github.com/vncased/demos.git
 ```
 ```bash
+cd demos
+```
+```bash
 pip install pygame
 ```
 **Windows**
