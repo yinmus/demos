@@ -18,7 +18,7 @@ On PyGame
 ---
 **pixel animation**
 
-![pyl](demos.img/4.png)
+![pyl](demos/.img/4.png)
 ---
 
 # Run/Запуск
