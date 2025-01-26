@@ -11,11 +11,13 @@ On PyGame
 **snow animation**
 
 ![snw](demos/.img/2.png)
+[gif](https://github.com/vncased/demos/blob/main/demos/.img/snw.gif)
 ---
 
 **3d animation**
 
 ![bll](demos/.img/3.png)
+[gif](https://github.com/vncased/demos/blob/main/demos/.img/tdg.gif)
 ---
 **pixel animation**
 
