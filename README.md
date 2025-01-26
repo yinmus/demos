@@ -5,16 +5,16 @@ On PyGame
 
 **abstract network animation**
 
-![lns](demos/.img/1.png)
+![lns](demos/.img/ga.gif)
 ---
 **snow animation**
 
-![snw](demos/.img/2.png)
+![snw](demos/.img/snw.gif)
 ---
 
 **3d animation**
 
-![bll](demos/.img/3.png)
+![bll](demos/.img/tdg.gif)
 ---
 **pixel animation**
 
