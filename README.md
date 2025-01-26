@@ -6,6 +6,7 @@ On PyGame
 **abstract network animation**
 
 ![lns](demos/.img/1.png)
+![gif](https://github.com/vncased/demos/demos/.img/ga.gif)
 ---
 **snow animation**
 
