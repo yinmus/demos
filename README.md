@@ -22,6 +22,7 @@ On PyGame
 **pixel animation**
 
 ![pyl](demos/.img/4.png)
+[gif](https://github.com/vncased/demos/blob/main/demos/.img/pyl.gif)
 ---
 
 # Run/Запуск
