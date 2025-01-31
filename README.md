@@ -26,7 +26,7 @@ On PyGame
 ---
 **plasm animation**
 
-![pyl](demos/.img/4.png)
+![pyl](demos/.img/5.png)
 ---
 # Run/Запуск
 ```bash
