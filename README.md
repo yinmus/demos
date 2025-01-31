@@ -24,7 +24,10 @@ On PyGame
 ![pyl](demos/.img/4.png)
 [gif](https://github.com/vncased/demos/blob/main/demos/.img/pyl.gif)
 ---
+**plasm animation**
 
+![pyl](demos/.img/4.png)
+---
 # Run/Запуск
 ```bash
 git clone https://github.com/vncased/demos.git
