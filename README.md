@@ -30,7 +30,7 @@ On PyGame
 ---
 # Run/Запуск
 ```bash
-git clone https://github.com/vncased/demos.git
+git clone https://github.com/yinmus/demos.git
 ```
 ```bash
 cd demos
