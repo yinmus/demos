@@ -29,20 +29,5 @@ On PyGame
 ![pyl](demos/.img/5.png)
 ---
 # Run/Запуск
-```bash
-git clone https://github.com/yinmus/demos.git
-```
-```bash
-cd demos
-```
-```bash
-pip install pygame
-```
-**Windows**
-```bash
-python curs.py
-```
-**Linux**
-```bash
+
 python3 curs.py
-```
